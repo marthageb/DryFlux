@@ -51,7 +51,7 @@ code: code used in the analysis presented in the manuscript.
         
         
         
-data: data used in analysis presented in the manuscript can  be accessed: https://drive.google.com/drive/folders/18HTllG5hctGcED7HhAKzuMTUO0Kax3di?usp=sharing
+data: data used in analysis presented in the manuscript
 contents of this folder include:
     site_locs.csv : site meta data for Southwestern NA sites including: site ID, site name, lat/long, vegetation classification (determined from MODIS IGBP land cover classification at flux tower location), MAT (from FluxNet), MAP (from FluxNet), and elevation (from FluxNet) 
     global_locs.csv: site meta data from FluxNET for the global dryland sites
